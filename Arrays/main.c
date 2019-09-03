@@ -47,7 +47,7 @@ int main()
     printf("Suma: %d -- Cantidad %d\n\n", sumaDePositivos, contadorDePositivos);
 
 
-     printf("\n\n\PROMEDIO DE POSITIVOS: %f\n\n", promedioPositivos);
+     printf("\n\n\PROMEDIO DE POSITIVOS: %.2f\n\n", promedioPositivos);
 
 
      printf("MAXIMO: %d -- MINIMO: %d", maximo, minimo);
